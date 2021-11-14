@@ -2,7 +2,7 @@
 name = "app"
 version = "0.1.0"
 description = "Backend API"
-authors = ["김현준C <hyunjun_kim@pubg.com>"]
+authors = ["김재구 <rlaworn1993@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
